@@ -37,3 +37,7 @@ L'utilisateur est guidé et choisit les options voulues. Une fois la création t
 
 - Minecraft 26.1 et plus récent requiert Java 25 minimum (cela peut évoluer dans le futur).
 - Le script n'accepte pas les espaces dans le nom du serveur, alors que le menu le demande.
+
+## Licences
+
+Licence : MIT, voir le fichier LICENSE
